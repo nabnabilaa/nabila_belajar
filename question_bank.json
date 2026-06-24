@@ -13,14 +13,14 @@
       "programming": {
         "label": "Programming",
         "label_id": "Pemrograman",
-        "total": 500,
-        "sessions": 10
+        "total": 430,
+        "sessions": 8
       },
       "oop": {
         "label": "OOP",
         "label_id": "OOP",
-        "total": 300,
-        "sessions": 6
+        "total": 226,
+        "sessions": 4
       },
       "inductive": {
         "label": "Inductive Reasoning",
@@ -10329,7 +10329,8 @@
       "explanation": "String interpolation \\(name) and \\(age) inserts the values → \"Cici is 25\".",
       "explanation_id": "Interpolasi string \\(name) dan \\(age) menyisipkan nilainya → \"Cici is 25\".",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 6,
@@ -10441,7 +10442,8 @@
       "explanation": "reduce(1, *) multiplies all elements → 7776.",
       "explanation_id": "reduce(1, *) mengalikan semua elemen → 7776.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 13,
@@ -10457,7 +10459,8 @@
       "explanation": "a.first returns the first element = 5.",
       "explanation_id": "a.first mengembalikan elemen pertama = 5.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 14,
@@ -10569,7 +10572,8 @@
       "explanation": "s is nil, so the nil-coalescing `?? 22` provides the default → 22.",
       "explanation_id": "s bernilai nil, jadi nil-coalescing `?? 22` memberi nilai default → 22.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 21,
@@ -10601,7 +10605,8 @@
       "explanation": "y = x × 6 = 3 × 6 = 18.",
       "explanation_id": "y = x × 6 = 3 × 6 = 18.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 23,
@@ -10681,7 +10686,8 @@
       "explanation": "Ternary: x >= 12 is true → \"yes\".",
       "explanation_id": "Ternary: x >= 12 bernilai true → \"yes\".",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 28,
@@ -10761,7 +10767,8 @@
       "explanation": "filter keeps even numbers; counting them → 2.",
       "explanation_id": "filter menyisakan bilangan genap; menghitungnya → 2.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 33,
@@ -10793,7 +10800,8 @@
       "explanation": "map multiplies each element by 2 → [10, 2, 6, 18].",
       "explanation_id": "map mengalikan tiap elemen dengan 2 → [10, 2, 6, 18].",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 35,
@@ -11225,7 +11233,8 @@
       "explanation": "x = 4; x > 14 is false → prints \"small\".",
       "explanation_id": "x = 4; x > 14 bernilai false → mencetak \"small\".",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 62,
@@ -11241,7 +11250,8 @@
       "explanation": "s is nil, so the nil-coalescing `?? 9` provides the default → 9.",
       "explanation_id": "s bernilai nil, jadi nil-coalescing `?? 9` memberi nilai default → 9.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 63,
@@ -11289,7 +11299,8 @@
       "explanation": "filter keeps even numbers; counting them → 2.",
       "explanation_id": "filter menyisakan bilangan genap; menghitungnya → 2.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 66,
@@ -11353,7 +11364,8 @@
       "explanation": "reduce(1, *) multiplies all elements → 20736.",
       "explanation_id": "reduce(1, *) mengalikan semua elemen → 20736.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 70,
@@ -11369,7 +11381,8 @@
       "explanation": "map multiplies each element by 2 → [8, 12, 10, 8, 16, 8].",
       "explanation_id": "map mengalikan tiap elemen dengan 2 → [8, 12, 10, 8, 16, 8].",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 71,
@@ -11385,7 +11398,8 @@
       "explanation": "x = 1; x > 8 is false → prints \"small\".",
       "explanation_id": "x = 1; x > 8 bernilai false → mencetak \"small\".",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 72,
@@ -11401,7 +11415,8 @@
       "explanation": "s is nil, so the nil-coalescing `?? 29` provides the default → 29.",
       "explanation_id": "s bernilai nil, jadi nil-coalescing `?? 29` memberi nilai default → 29.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 73,
@@ -11529,7 +11544,8 @@
       "explanation": "String interpolation \\(name) and \\(age) inserts the values → \"Andi is 17\".",
       "explanation_id": "Interpolasi string \\(name) dan \\(age) menyisipkan nilainya → \"Andi is 17\".",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 81,
@@ -11785,7 +11801,8 @@
       "explanation": "map multiplies each element by 2 → [6, 2, 4, 8, 4, 6].",
       "explanation_id": "map mengalikan tiap elemen dengan 2 → [6, 2, 4, 8, 4, 6].",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 97,
@@ -11913,7 +11930,8 @@
       "explanation": "filter keeps even numbers; counting them → 1.",
       "explanation_id": "filter menyisakan bilangan genap; menghitungnya → 1.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 105,
@@ -12121,7 +12139,8 @@
       "explanation": "filter keeps even numbers; counting them → 5.",
       "explanation_id": "filter menyisakan bilangan genap; menghitungnya → 5.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 118,
@@ -12137,7 +12156,8 @@
       "explanation": "a.max() returns the largest = 11.",
       "explanation_id": "a.max() mengembalikan yang terbesar = 11.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 119,
@@ -12201,7 +12221,8 @@
       "explanation": "x = 5; x > 6 is false → prints \"small\".",
       "explanation_id": "x = 5; x > 6 bernilai false → mencetak \"small\".",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 123,
@@ -12217,7 +12238,8 @@
       "explanation": "filter keeps elements > 4; counting → 4.",
       "explanation_id": "filter menyisakan elemen > 4; menghitung → 4.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 124,
@@ -12313,7 +12335,8 @@
       "explanation": "n is halved each pass until ≤ 1 (integer /): 3 times.",
       "explanation_id": "n dibagi dua tiap putaran sampai ≤ 1 (/ bilangan bulat): 3 kali.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 130,
@@ -12329,7 +12352,8 @@
       "explanation": "reduce(0,+) adds all elements = 43.",
       "explanation_id": "reduce(0,+) menjumlahkan semua elemen = 43.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 131,
@@ -12361,7 +12385,8 @@
       "explanation": "Ternary: x >= 15 is true → \"yes\".",
       "explanation_id": "Ternary: x >= 15 bernilai true → \"yes\".",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 133,
@@ -12377,7 +12402,8 @@
       "explanation": "map multiplies each element by 2 → [8, 14, 18, 8].",
       "explanation_id": "map mengalikan tiap elemen dengan 2 → [8, 14, 18, 8].",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 134,
@@ -12649,7 +12675,8 @@
       "explanation": "String interpolation \\(name) and \\(age) inserts the values → \"Budi is 25\".",
       "explanation_id": "Interpolasi string \\(name) dan \\(age) menyisipkan nilainya → \"Budi is 25\".",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 151,
@@ -12697,7 +12724,8 @@
       "explanation": "s is nil, so the nil-coalescing `?? 15` provides the default → 15.",
       "explanation_id": "s bernilai nil, jadi nil-coalescing `?? 15` memberi nilai default → 15.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 154,
@@ -12713,7 +12741,8 @@
       "explanation": "y = x × 6 = 8 × 6 = 48.",
       "explanation_id": "y = x × 6 = 8 × 6 = 48.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 155,
@@ -12745,7 +12774,8 @@
       "explanation": "add returns x + y = 12 + 10 = 22.",
       "explanation_id": "add mengembalikan x + y = 12 + 10 = 22.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 157,
@@ -12857,7 +12887,8 @@
       "explanation": "`1...8` is a closed range 1 to 8. Sum = 36.",
       "explanation_id": "`1...8` rentang tertutup 1 sampai 8. Jumlah = 36.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 164,
@@ -13673,7 +13704,8 @@
       "explanation": "filter keeps elements > 4; counting → 2.",
       "explanation_id": "filter menyisakan elemen > 4; menghitung → 2.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 215,
@@ -13769,7 +13801,8 @@
       "explanation": "filter keeps elements > 4; counting → 5.",
       "explanation_id": "filter menyisakan elemen > 4; menghitung → 5.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 221,
@@ -13865,7 +13898,8 @@
       "explanation": "reduce(1, *) multiplies all elements → 12.",
       "explanation_id": "reduce(1, *) mengalikan semua elemen → 12.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 227,
@@ -13929,7 +13963,8 @@
       "explanation": "reduce(1, *) multiplies all elements → 1008.",
       "explanation_id": "reduce(1, *) mengalikan semua elemen → 1008.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 231,
@@ -14393,7 +14428,8 @@
       "explanation": "filter keeps even numbers; counting them → 3.",
       "explanation_id": "filter menyisakan bilangan genap; menghitungnya → 3.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 260,
@@ -14601,7 +14637,8 @@
       "explanation": "map multiplies each element by 2 → [14, 8, 12, 2].",
       "explanation_id": "map mengalikan tiap elemen dengan 2 → [14, 8, 12, 2].",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 273,
@@ -14713,7 +14750,8 @@
       "explanation": "a.count = number of elements = 4.",
       "explanation_id": "a.count = jumlah elemen = 4.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 280,
@@ -14777,7 +14815,8 @@
       "explanation": "a.count = number of elements = 6.",
       "explanation_id": "a.count = jumlah elemen = 6.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 284,
@@ -14825,7 +14864,8 @@
       "explanation": "map multiplies each element by 2 → [2, 6, 4, 10, 16].",
       "explanation_id": "map mengalikan tiap elemen dengan 2 → [2, 6, 4, 10, 16].",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 287,
@@ -14873,7 +14913,8 @@
       "explanation": "reduce(1, *) multiplies all elements → 12.",
       "explanation_id": "reduce(1, *) mengalikan semua elemen → 12.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 290,
@@ -15177,7 +15218,8 @@
       "explanation": "filter keeps elements > 4; counting → 2.",
       "explanation_id": "filter menyisakan elemen > 4; menghitung → 2.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 309,
@@ -15209,7 +15251,8 @@
       "explanation": "a.max() returns the largest = 12.",
       "explanation_id": "a.max() mengembalikan yang terbesar = 12.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 311,
@@ -15273,7 +15316,8 @@
       "explanation": "n is halved each pass until ≤ 1 (integer /): 4 times.",
       "explanation_id": "n dibagi dua tiap putaran sampai ≤ 1 (/ bilangan bulat): 4 kali.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 315,
@@ -15305,7 +15349,8 @@
       "explanation": "filter keeps even numbers; counting them → 3.",
       "explanation_id": "filter menyisakan bilangan genap; menghitungnya → 3.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 317,
@@ -15401,7 +15446,8 @@
       "explanation": "s is nil, so the nil-coalescing `?? 25` provides the default → 25.",
       "explanation_id": "s bernilai nil, jadi nil-coalescing `?? 25` memberi nilai default → 25.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 323,
@@ -15465,7 +15511,8 @@
       "explanation": "n is halved each pass until ≤ 1 (integer /): 3 times.",
       "explanation_id": "n dibagi dua tiap putaran sampai ≤ 1 (/ bilangan bulat): 3 kali.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 327,
@@ -15545,7 +15592,8 @@
       "explanation": "`1...4` is a closed range 1 to 4. Sum = 10.",
       "explanation_id": "`1...4` rentang tertutup 1 sampai 4. Jumlah = 10.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 332,
@@ -15657,7 +15705,8 @@
       "explanation": "x = 12; x > 5 is true → prints \"big\".",
       "explanation_id": "x = 12; x > 5 bernilai true → mencetak \"big\".",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 339,
@@ -15785,7 +15834,8 @@
       "explanation": "s is nil, so the nil-coalescing `?? 27` provides the default → 27.",
       "explanation_id": "s bernilai nil, jadi nil-coalescing `?? 27` memberi nilai default → 27.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 347,
@@ -15913,7 +15963,8 @@
       "explanation": "y = x × 3 = 8 × 3 = 24.",
       "explanation_id": "y = x × 3 = 8 × 3 = 24.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 355,
@@ -15945,7 +15996,8 @@
       "explanation": "s is nil, so the nil-coalescing `?? 6` provides the default → 6.",
       "explanation_id": "s bernilai nil, jadi nil-coalescing `?? 6` memberi nilai default → 6.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 357,
@@ -16041,7 +16093,8 @@
       "explanation": "Ternary: x >= 5 is true → \"yes\".",
       "explanation_id": "Ternary: x >= 5 bernilai true → \"yes\".",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 363,
@@ -16409,7 +16462,8 @@
       "explanation": "map multiplies each element by 2 → [2, 18, 16, 18, 4, 12].",
       "explanation_id": "map mengalikan tiap elemen dengan 2 → [2, 18, 16, 18, 4, 12].",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 386,
@@ -16633,7 +16687,8 @@
       "explanation": "a.max() returns the largest = 14.",
       "explanation_id": "a.max() mengembalikan yang terbesar = 14.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 400,
@@ -16953,7 +17008,8 @@
       "explanation": "`1...5` is a closed range 1 to 5. Sum = 15.",
       "explanation_id": "`1...5` rentang tertutup 1 sampai 5. Jumlah = 15.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 420,
@@ -17097,7 +17153,8 @@
       "explanation": "filter keeps elements > 5; counting → 1.",
       "explanation_id": "filter menyisakan elemen > 5; menghitung → 1.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 429,
@@ -17129,7 +17186,8 @@
       "explanation": "x = 17; x > 9 is true → prints \"big\".",
       "explanation_id": "x = 17; x > 9 bernilai true → mencetak \"big\".",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 431,
@@ -17369,7 +17427,8 @@
       "explanation": "Ternary: x >= 15 is false → \"no\".",
       "explanation_id": "Ternary: x >= 15 bernilai false → \"no\".",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 446,
@@ -17465,7 +17524,8 @@
       "explanation": "x = 16; x > 7 is true → prints \"big\".",
       "explanation_id": "x = 16; x > 7 bernilai true → mencetak \"big\".",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 452,
@@ -17625,7 +17685,8 @@
       "explanation": "a.count = number of elements = 5.",
       "explanation_id": "a.count = jumlah elemen = 5.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 462,
@@ -17673,7 +17734,8 @@
       "explanation": "Ternary: x >= 10 is true → \"yes\".",
       "explanation_id": "Ternary: x >= 10 bernilai true → \"yes\".",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 465,
@@ -17689,7 +17751,8 @@
       "explanation": "reduce(1, *) multiplies all elements → 12288.",
       "explanation_id": "reduce(1, *) mengalikan semua elemen → 12288.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 466,
@@ -17753,7 +17816,8 @@
       "explanation": "x = 20; x > 15 is true → prints \"big\".",
       "explanation_id": "x = 20; x > 15 bernilai true → mencetak \"big\".",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 470,
@@ -17785,7 +17849,8 @@
       "explanation": "`1...3` is a closed range 1 to 3. Sum = 6.",
       "explanation_id": "`1...3` rentang tertutup 1 sampai 3. Jumlah = 6.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 472,
@@ -17801,7 +17866,8 @@
       "explanation": "filter keeps elements > 3; counting → 4.",
       "explanation_id": "filter menyisakan elemen > 3; menghitung → 4.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 473,
@@ -17977,7 +18043,8 @@
       "explanation": "Ternary: x >= 6 is false → \"no\".",
       "explanation_id": "Ternary: x >= 6 bernilai false → \"no\".",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 484,
@@ -17993,7 +18060,8 @@
       "explanation": "Ternary: x >= 6 is true → \"yes\".",
       "explanation_id": "Ternary: x >= 6 bernilai true → \"yes\".",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 485,
@@ -18089,7 +18157,8 @@
       "explanation": "add returns x + y = 9 + 2 = 11.",
       "explanation_id": "add mengembalikan x + y = 9 + 2 = 11.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 491,
@@ -18217,7 +18286,8 @@
       "explanation": "s is nil, so the nil-coalescing `?? 14` provides the default → 14.",
       "explanation_id": "s bernilai nil, jadi nil-coalescing `?? 14` memberi nilai default → 14.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 499,
@@ -18347,7 +18417,8 @@
       "explanation": "sum() returns x + y = 2 + 7 = 9.",
       "explanation_id": "sum() mengembalikan x + y = 2 + 7 = 9.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 7,
@@ -18379,7 +18450,8 @@
       "explanation": "`area` is a computed property = side × side = 5×5 = 25.",
       "explanation_id": "`area` properti terhitung = side × side = 5×5 = 25.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 9,
@@ -18513,7 +18585,8 @@
       "explanation": "init stores 97 into size; b.size prints 97.",
       "explanation_id": "init menyimpan 97 ke size; b.size mencetak 97.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 17,
@@ -18567,7 +18640,8 @@
       "explanation": "sum() returns x + y = 3 + 3 = 6.",
       "explanation_id": "sum() mengembalikan x + y = 3 + 3 = 6.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 20,
@@ -18599,7 +18673,8 @@
       "explanation": "init stores 55 into size; b.size prints 55.",
       "explanation_id": "init menyimpan 55 ke size; b.size mencetak 55.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 22,
@@ -18647,7 +18722,8 @@
       "explanation": "sum() returns x + y = 7 + 10 = 17.",
       "explanation_id": "sum() mengembalikan x + y = 7 + 10 = 17.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 25,
@@ -18663,7 +18739,8 @@
       "explanation": "sum() returns x + y = 9 + 8 = 17.",
       "explanation_id": "sum() mengembalikan x + y = 9 + 8 = 17.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 26,
@@ -18819,7 +18896,8 @@
       "explanation": "static `count` is shared; +1 per object × 3 → 3.",
       "explanation_id": "`count` static dipakai bersama; +1 tiap objek × 3 → 3.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 35,
@@ -18851,7 +18929,8 @@
       "explanation": "sum() returns x + y = 4 + 6 = 10.",
       "explanation_id": "sum() mengembalikan x + y = 4 + 6 = 10.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 37,
@@ -18889,7 +18968,8 @@
       "explanation": "sum() returns x + y = 6 + 9 = 15.",
       "explanation_id": "sum() mengembalikan x + y = 6 + 9 = 15.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 39,
@@ -18959,7 +19039,8 @@
       "explanation": "init stores 23 into size; b.size prints 23.",
       "explanation_id": "init menyimpan 23 ke size; b.size mencetak 23.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 43,
@@ -18975,7 +19056,8 @@
       "explanation": "init stores 16 into size; b.size prints 16.",
       "explanation_id": "init menyimpan 16 ke size; b.size mencetak 16.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 44,
@@ -18991,7 +19073,8 @@
       "explanation": "init stores 51 into size; b.size prints 51.",
       "explanation_id": "init menyimpan 51 ke size; b.size mencetak 51.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 45,
@@ -19131,7 +19214,8 @@
       "explanation": "init stores 41 into size; b.size prints 41.",
       "explanation_id": "init menyimpan 41 ke size; b.size mencetak 41.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 53,
@@ -19147,7 +19231,8 @@
       "explanation": "Dog overrides speak(); the Dog version runs → \"Meow\".",
       "explanation_id": "Dog meng-override speak(); versi Dog yang jalan → \"Meow\".",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 54,
@@ -19163,7 +19248,8 @@
       "explanation": "sum() returns x + y = 7 + 6 = 13.",
       "explanation_id": "sum() mengembalikan x + y = 7 + 6 = 13.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 55,
@@ -19211,7 +19297,8 @@
       "explanation": "init stores 81 into size; b.size prints 81.",
       "explanation_id": "init menyimpan 81 ke size; b.size mencetak 81.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 58,
@@ -19291,7 +19378,8 @@
       "explanation": "init stores 78 into size; b.size prints 78.",
       "explanation_id": "init menyimpan 78 ke size; b.size mencetak 78.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 63,
@@ -19785,7 +19873,8 @@
       "explanation": "sum() returns x + y = 3 + 8 = 11.",
       "explanation_id": "sum() mengembalikan x + y = 3 + 8 = 11.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 92,
@@ -19801,7 +19890,8 @@
       "explanation": "`area` is a computed property = side × side = 3×3 = 9.",
       "explanation_id": "`area` properti terhitung = side × side = 3×3 = 9.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 93,
@@ -19849,7 +19939,8 @@
       "explanation": "init stores 90 into size; b.size prints 90.",
       "explanation_id": "init menyimpan 90 ke size; b.size mencetak 90.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 96,
@@ -19881,7 +19972,8 @@
       "explanation": "sum() returns x + y = 8 + 4 = 12.",
       "explanation_id": "sum() mengembalikan x + y = 8 + 4 = 12.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 98,
@@ -19897,7 +19989,8 @@
       "explanation": "init stores 40 into size; b.size prints 40.",
       "explanation_id": "init menyimpan 40 ke size; b.size mencetak 40.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 99,
@@ -19945,7 +20038,8 @@
       "explanation": "EN conforms to Greeter and implements greet() → \"Hey\" (polymorphism via protocol).",
       "explanation_id": "EN memenuhi protocol Greeter dan mengimplementasi greet() → \"Hey\" (polimorfisme via protocol).",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 102,
@@ -20037,7 +20131,8 @@
       "explanation": "`area` is a computed property = side × side = 6×6 = 36.",
       "explanation_id": "`area` properti terhitung = side × side = 6×6 = 36.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 107,
@@ -20107,7 +20202,8 @@
       "explanation": "static `count` is shared; +1 per object × 5 → 5.",
       "explanation_id": "`count` static dipakai bersama; +1 tiap objek × 5 → 5.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 111,
@@ -20123,7 +20219,8 @@
       "explanation": "init stores 53 into size; b.size prints 53.",
       "explanation_id": "init menyimpan 53 ke size; b.size mencetak 53.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 112,
@@ -20209,7 +20306,8 @@
       "explanation": "sum() returns x + y = 2 + 6 = 8.",
       "explanation_id": "sum() mengembalikan x + y = 2 + 6 = 8.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 117,
@@ -20435,7 +20533,8 @@
       "explanation": "init stores 33 into size; b.size prints 33.",
       "explanation_id": "init menyimpan 33 ke size; b.size mencetak 33.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 130,
@@ -20617,7 +20716,8 @@
       "explanation": "`area` is a computed property = side × side = 7×7 = 49.",
       "explanation_id": "`area` properti terhitung = side × side = 7×7 = 49.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 141,
@@ -20649,7 +20749,8 @@
       "explanation": "sum() returns x + y = 7 + 4 = 11.",
       "explanation_id": "sum() mengembalikan x + y = 7 + 4 = 11.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 143,
@@ -20811,7 +20912,8 @@
       "explanation": "sum() returns x + y = 4 + 10 = 14.",
       "explanation_id": "sum() mengembalikan x + y = 4 + 10 = 14.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 152,
@@ -20887,7 +20989,8 @@
       "explanation": "Dog overrides speak(); the Dog version runs → \"Quack\".",
       "explanation_id": "Dog meng-override speak(); versi Dog yang jalan → \"Quack\".",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 156,
@@ -20903,7 +21006,8 @@
       "explanation": "init stores 22 into size; b.size prints 22.",
       "explanation_id": "init menyimpan 22 ke size; b.size mencetak 22.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 157,
@@ -21027,7 +21131,8 @@
       "explanation": "sum() returns x + y = 7 + 3 = 10.",
       "explanation_id": "sum() mengembalikan x + y = 7 + 3 = 10.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 164,
@@ -21043,7 +21148,8 @@
       "explanation": "sum() returns x + y = 6 + 7 = 13.",
       "explanation_id": "sum() mengembalikan x + y = 6 + 7 = 13.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 165,
@@ -21075,7 +21181,8 @@
       "explanation": "sum() returns x + y = 7 + 5 = 12.",
       "explanation_id": "sum() mengembalikan x + y = 7 + 5 = 12.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 167,
@@ -21091,7 +21198,8 @@
       "explanation": "`area` is a computed property = side × side = 2×2 = 4.",
       "explanation_id": "`area` properti terhitung = side × side = 2×2 = 4.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 168,
@@ -21123,7 +21231,8 @@
       "explanation": "init stores 77 into size; b.size prints 77.",
       "explanation_id": "init menyimpan 77 ke size; b.size mencetak 77.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 170,
@@ -21193,7 +21302,8 @@
       "explanation": "static `count` is shared; +1 per object × 2 → 2.",
       "explanation_id": "`count` static dipakai bersama; +1 tiap objek × 2 → 2.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 174,
@@ -21317,7 +21427,8 @@
       "explanation": "init stores 5 into size; b.size prints 5.",
       "explanation_id": "init menyimpan 5 ke size; b.size mencetak 5.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 181,
@@ -21349,7 +21460,8 @@
       "explanation": "sum() returns x + y = 10 + 8 = 18.",
       "explanation_id": "sum() mengembalikan x + y = 10 + 8 = 18.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 183,
@@ -21365,7 +21477,8 @@
       "explanation": "init stores 61 into size; b.size prints 61.",
       "explanation_id": "init menyimpan 61 ke size; b.size mencetak 61.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 184,
@@ -21429,7 +21542,8 @@
       "explanation": "init stores 69 into size; b.size prints 69.",
       "explanation_id": "init menyimpan 69 ke size; b.size mencetak 69.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 188,
@@ -21509,7 +21623,8 @@
       "explanation": "init stores 99 into size; b.size prints 99.",
       "explanation_id": "init menyimpan 99 ke size; b.size mencetak 99.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 193,
@@ -21525,7 +21640,8 @@
       "explanation": "sum() returns x + y = 8 + 9 = 17.",
       "explanation_id": "sum() mengembalikan x + y = 8 + 9 = 17.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 194,
@@ -21595,7 +21711,8 @@
       "explanation": "init stores 68 into size; b.size prints 68.",
       "explanation_id": "init menyimpan 68 ke size; b.size mencetak 68.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 198,
@@ -21611,7 +21728,8 @@
       "explanation": "`area` is a computed property = side × side = 8×8 = 64.",
       "explanation_id": "`area` properti terhitung = side × side = 8×8 = 64.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 199,
@@ -21627,7 +21745,8 @@
       "explanation": "sum() returns x + y = 8 + 2 = 10.",
       "explanation_id": "sum() mengembalikan x + y = 8 + 2 = 10.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 200,
@@ -21691,7 +21810,8 @@
       "explanation": "init stores 54 into size; b.size prints 54.",
       "explanation_id": "init menyimpan 54 ke size; b.size mencetak 54.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 204,
@@ -21707,7 +21827,8 @@
       "explanation": "sum() returns x + y = 6 + 4 = 10.",
       "explanation_id": "sum() mengembalikan x + y = 6 + 4 = 10.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 205,
@@ -21777,7 +21898,8 @@
       "explanation": "sum() returns x + y = 2 + 2 = 4.",
       "explanation_id": "sum() mengembalikan x + y = 2 + 2 = 4.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 209,
@@ -21841,7 +21963,8 @@
       "explanation": "init stores 94 into size; b.size prints 94.",
       "explanation_id": "init menyimpan 94 ke size; b.size mencetak 94.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 213,
@@ -21873,7 +21996,8 @@
       "explanation": "sum() returns x + y = 9 + 6 = 15.",
       "explanation_id": "sum() mengembalikan x + y = 9 + 6 = 15.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 215,
@@ -21905,7 +22029,8 @@
       "explanation": "init stores 92 into size; b.size prints 92.",
       "explanation_id": "init menyimpan 92 ke size; b.size mencetak 92.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 217,
@@ -21953,7 +22078,8 @@
       "explanation": "static `count` is shared; +1 per object × 4 → 4.",
       "explanation_id": "`count` static dipakai bersama; +1 tiap objek × 4 → 4.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 220,
@@ -22001,7 +22127,8 @@
       "explanation": "`area` is a computed property = side × side = 4×4 = 16.",
       "explanation_id": "`area` properti terhitung = side × side = 4×4 = 16.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 223,
@@ -22141,7 +22268,8 @@
       "explanation": "init stores 39 into size; b.size prints 39.",
       "explanation_id": "init menyimpan 39 ke size; b.size mencetak 39.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 231,
@@ -22211,7 +22339,8 @@
       "explanation": "Dog overrides speak(); the Dog version runs → \"Woof\".",
       "explanation_id": "Dog meng-override speak(); versi Dog yang jalan → \"Woof\".",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 235,
@@ -22227,7 +22356,8 @@
       "explanation": "EN conforms to Greeter and implements greet() → \"Hello\" (polymorphism via protocol).",
       "explanation_id": "EN memenuhi protocol Greeter dan mengimplementasi greet() → \"Hello\" (polimorfisme via protocol).",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 236,
@@ -22281,7 +22411,8 @@
       "explanation": "init stores 42 into size; b.size prints 42.",
       "explanation_id": "init menyimpan 42 ke size; b.size mencetak 42.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 239,
@@ -22313,7 +22444,8 @@
       "explanation": "`area` is a computed property = side × side = 9×9 = 81.",
       "explanation_id": "`area` properti terhitung = side × side = 9×9 = 81.",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 241,
@@ -22367,7 +22499,8 @@
       "explanation": "init stores 34 into size; b.size prints 34.",
       "explanation_id": "init menyimpan 34 ke size; b.size mencetak 34.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 244,
@@ -22399,7 +22532,8 @@
       "explanation": "sum() returns x + y = 9 + 5 = 14.",
       "explanation_id": "sum() mengembalikan x + y = 9 + 5 = 14.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 246,
@@ -22517,7 +22651,8 @@
       "explanation": "sum() returns x + y = 8 + 5 = 13.",
       "explanation_id": "sum() mengembalikan x + y = 8 + 5 = 13.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 253,
@@ -22581,7 +22716,8 @@
       "explanation": "init stores 47 into size; b.size prints 47.",
       "explanation_id": "init menyimpan 47 ke size; b.size mencetak 47.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 257,
@@ -22613,7 +22749,8 @@
       "explanation": "sum() returns x + y = 4 + 2 = 6.",
       "explanation_id": "sum() mengembalikan x + y = 4 + 2 = 6.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 259,
@@ -22775,7 +22912,8 @@
       "explanation": "init stores 88 into size; b.size prints 88.",
       "explanation_id": "init menyimpan 88 ke size; b.size mencetak 88.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 268,
@@ -22791,7 +22929,8 @@
       "explanation": "EN conforms to Greeter and implements greet() → \"Hi\" (polymorphism via protocol).",
       "explanation_id": "EN memenuhi protocol Greeter dan mengimplementasi greet() → \"Hi\" (polimorfisme via protocol).",
       "tag": "Swift",
-      "level": 3
+      "level": 3,
+      "hidden": true
     },
     {
       "id": 269,
@@ -22823,7 +22962,8 @@
       "explanation": "Dog overrides speak(); the Dog version runs → \"Moo\".",
       "explanation_id": "Dog meng-override speak(); versi Dog yang jalan → \"Moo\".",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 271,
@@ -22855,7 +22995,8 @@
       "explanation": "init stores 58 into size; b.size prints 58.",
       "explanation_id": "init menyimpan 58 ke size; b.size mencetak 58.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 273,
@@ -22893,7 +23034,8 @@
       "explanation": "init stores 62 into size; b.size prints 62.",
       "explanation_id": "init menyimpan 62 ke size; b.size mencetak 62.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 275,
@@ -22925,7 +23067,8 @@
       "explanation": "init stores 17 into size; b.size prints 17.",
       "explanation_id": "init menyimpan 17 ke size; b.size mencetak 17.",
       "tag": "Swift",
-      "level": 1
+      "level": 1,
+      "hidden": true
     },
     {
       "id": 277,
@@ -23195,7 +23338,8 @@
       "explanation": "sum() returns x + y = 7 + 8 = 15.",
       "explanation_id": "sum() mengembalikan x + y = 7 + 8 = 15.",
       "tag": "Swift",
-      "level": 2
+      "level": 2,
+      "hidden": true
     },
     {
       "id": 292,
