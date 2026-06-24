@@ -1,8 +1,8 @@
 {
   "meta": {
     "title": "Apple Developer Academy Entry-Test Prep",
-    "questionsPerSession": 50,
-    "note": "Logic (TPA/TIU) + Inductive + Diagrammatic + Logical Reasoning (AssessmentDay) + Programming (pseudocode & Swift) + OOP. Mixed difficulty. Includes study material.",
+    "questionsPerSession": 20,
+    "note": "Logic (TPA/TIU) + Inductive + Diagrammatic + Logical Reasoning (AssessmentDay) + Programming (pseudocode) + OOP. 20 soal/session, tipe campur tiap session.",
     "topics": {
       "logic": {
         "label": "Logic Test",
@@ -40,7 +40,8 @@
         "total": 20,
         "sessions": 1
       }
-    }
+    },
+    "totalSessions": 40
   },
   "logic": [
     {
@@ -25829,6 +25830,3448 @@
       ],
       "tag": "Logical",
       "level": 1
+    }
+  ],
+  "sessions": [
+    {
+      "session": 1,
+      "total": 20,
+      "questions": [
+        {
+          "id": 167,
+          "section": "programming"
+        },
+        {
+          "id": 460,
+          "section": "logic"
+        },
+        {
+          "id": 591,
+          "section": "logic"
+        },
+        {
+          "id": 554,
+          "section": "logic"
+        },
+        {
+          "id": 507,
+          "section": "logic"
+        },
+        {
+          "id": 93,
+          "section": "oop"
+        },
+        {
+          "id": 702,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 623,
+          "section": "inductive"
+        },
+        {
+          "id": 810,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 617,
+          "section": "inductive"
+        },
+        {
+          "id": 233,
+          "section": "oop"
+        },
+        {
+          "id": 225,
+          "section": "programming"
+        },
+        {
+          "id": 403,
+          "section": "logic"
+        },
+        {
+          "id": 636,
+          "section": "inductive"
+        },
+        {
+          "id": 78,
+          "section": "oop"
+        },
+        {
+          "id": 89,
+          "section": "oop"
+        },
+        {
+          "id": 103,
+          "section": "oop"
+        },
+        {
+          "id": 812,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 530,
+          "section": "logic"
+        },
+        {
+          "id": 720,
+          "section": "diagrammatic"
+        }
+      ]
+    },
+    {
+      "session": 2,
+      "total": 20,
+      "questions": [
+        {
+          "id": 712,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 817,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 210,
+          "section": "programming"
+        },
+        {
+          "id": 391,
+          "section": "logic"
+        },
+        {
+          "id": 234,
+          "section": "oop"
+        },
+        {
+          "id": 236,
+          "section": "programming"
+        },
+        {
+          "id": 491,
+          "section": "logic"
+        },
+        {
+          "id": 197,
+          "section": "oop"
+        },
+        {
+          "id": 631,
+          "section": "inductive"
+        },
+        {
+          "id": 588,
+          "section": "logic"
+        },
+        {
+          "id": 512,
+          "section": "logic"
+        },
+        {
+          "id": 621,
+          "section": "inductive"
+        },
+        {
+          "id": 801,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 166,
+          "section": "programming"
+        },
+        {
+          "id": 616,
+          "section": "inductive"
+        },
+        {
+          "id": 178,
+          "section": "oop"
+        },
+        {
+          "id": 710,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 322,
+          "section": "logic"
+        },
+        {
+          "id": 298,
+          "section": "oop"
+        },
+        {
+          "id": 171,
+          "section": "oop"
+        }
+      ]
+    },
+    {
+      "session": 3,
+      "total": 20,
+      "questions": [
+        {
+          "id": 75,
+          "section": "oop"
+        },
+        {
+          "id": 715,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 100,
+          "section": "oop"
+        },
+        {
+          "id": 121,
+          "section": "programming"
+        },
+        {
+          "id": 705,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 469,
+          "section": "logic"
+        },
+        {
+          "id": 200,
+          "section": "programming"
+        },
+        {
+          "id": 635,
+          "section": "inductive"
+        },
+        {
+          "id": 41,
+          "section": "oop"
+        },
+        {
+          "id": 813,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 511,
+          "section": "logic"
+        },
+        {
+          "id": 803,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 502,
+          "section": "logic"
+        },
+        {
+          "id": 544,
+          "section": "logic"
+        },
+        {
+          "id": 628,
+          "section": "inductive"
+        },
+        {
+          "id": 217,
+          "section": "oop"
+        },
+        {
+          "id": 602,
+          "section": "inductive"
+        },
+        {
+          "id": 420,
+          "section": "logic"
+        },
+        {
+          "id": 479,
+          "section": "logic"
+        },
+        {
+          "id": 3,
+          "section": "programming"
+        }
+      ]
+    },
+    {
+      "session": 4,
+      "total": 20,
+      "questions": [
+        {
+          "id": 717,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 816,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 29,
+          "section": "programming"
+        },
+        {
+          "id": 704,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 622,
+          "section": "inductive"
+        },
+        {
+          "id": 42,
+          "section": "programming"
+        },
+        {
+          "id": 95,
+          "section": "oop"
+        },
+        {
+          "id": 570,
+          "section": "logic"
+        },
+        {
+          "id": 267,
+          "section": "oop"
+        },
+        {
+          "id": 186,
+          "section": "oop"
+        },
+        {
+          "id": 86,
+          "section": "oop"
+        },
+        {
+          "id": 35,
+          "section": "oop"
+        },
+        {
+          "id": 426,
+          "section": "logic"
+        },
+        {
+          "id": 820,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 216,
+          "section": "oop"
+        },
+        {
+          "id": 141,
+          "section": "oop"
+        },
+        {
+          "id": 575,
+          "section": "logic"
+        },
+        {
+          "id": 612,
+          "section": "inductive"
+        },
+        {
+          "id": 458,
+          "section": "logic"
+        },
+        {
+          "id": 634,
+          "section": "inductive"
+        }
+      ]
+    },
+    {
+      "session": 5,
+      "total": 20,
+      "questions": [
+        {
+          "id": 127,
+          "section": "oop"
+        },
+        {
+          "id": 114,
+          "section": "programming"
+        },
+        {
+          "id": 313,
+          "section": "logic"
+        },
+        {
+          "id": 165,
+          "section": "oop"
+        },
+        {
+          "id": 649,
+          "section": "inductive"
+        },
+        {
+          "id": 192,
+          "section": "oop"
+        },
+        {
+          "id": 275,
+          "section": "oop"
+        },
+        {
+          "id": 637,
+          "section": "inductive"
+        },
+        {
+          "id": 457,
+          "section": "programming"
+        },
+        {
+          "id": 819,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 379,
+          "section": "logic"
+        },
+        {
+          "id": 364,
+          "section": "logic"
+        },
+        {
+          "id": 718,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 470,
+          "section": "logic"
+        },
+        {
+          "id": 610,
+          "section": "inductive"
+        },
+        {
+          "id": 708,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 382,
+          "section": "logic"
+        },
+        {
+          "id": 811,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 183,
+          "section": "oop"
+        },
+        {
+          "id": 297,
+          "section": "programming"
+        }
+      ]
+    },
+    {
+      "session": 6,
+      "total": 20,
+      "questions": [
+        {
+          "id": 814,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 171,
+          "section": "oop"
+        },
+        {
+          "id": 113,
+          "section": "oop"
+        },
+        {
+          "id": 632,
+          "section": "inductive"
+        },
+        {
+          "id": 350,
+          "section": "logic"
+        },
+        {
+          "id": 396,
+          "section": "logic"
+        },
+        {
+          "id": 808,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 441,
+          "section": "logic"
+        },
+        {
+          "id": 16,
+          "section": "oop"
+        },
+        {
+          "id": 707,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 703,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 411,
+          "section": "logic"
+        },
+        {
+          "id": 202,
+          "section": "programming"
+        },
+        {
+          "id": 410,
+          "section": "programming"
+        },
+        {
+          "id": 212,
+          "section": "oop"
+        },
+        {
+          "id": 624,
+          "section": "inductive"
+        },
+        {
+          "id": 619,
+          "section": "inductive"
+        },
+        {
+          "id": 599,
+          "section": "logic"
+        },
+        {
+          "id": 388,
+          "section": "logic"
+        },
+        {
+          "id": 517,
+          "section": "logic"
+        }
+      ]
+    },
+    {
+      "session": 7,
+      "total": 20,
+      "questions": [
+        {
+          "id": 420,
+          "section": "programming"
+        },
+        {
+          "id": 71,
+          "section": "oop"
+        },
+        {
+          "id": 132,
+          "section": "oop"
+        },
+        {
+          "id": 295,
+          "section": "oop"
+        },
+        {
+          "id": 253,
+          "section": "oop"
+        },
+        {
+          "id": 168,
+          "section": "programming"
+        },
+        {
+          "id": 804,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 400,
+          "section": "logic"
+        },
+        {
+          "id": 500,
+          "section": "logic"
+        },
+        {
+          "id": 216,
+          "section": "programming"
+        },
+        {
+          "id": 818,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 543,
+          "section": "logic"
+        },
+        {
+          "id": 390,
+          "section": "logic"
+        },
+        {
+          "id": 640,
+          "section": "inductive"
+        },
+        {
+          "id": 256,
+          "section": "oop"
+        },
+        {
+          "id": 627,
+          "section": "inductive"
+        },
+        {
+          "id": 711,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 620,
+          "section": "inductive"
+        },
+        {
+          "id": 719,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 532,
+          "section": "logic"
+        }
+      ]
+    },
+    {
+      "session": 8,
+      "total": 20,
+      "questions": [
+        {
+          "id": 807,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 245,
+          "section": "oop"
+        },
+        {
+          "id": 611,
+          "section": "inductive"
+        },
+        {
+          "id": 189,
+          "section": "programming"
+        },
+        {
+          "id": 336,
+          "section": "programming"
+        },
+        {
+          "id": 625,
+          "section": "inductive"
+        },
+        {
+          "id": 233,
+          "section": "oop"
+        },
+        {
+          "id": 50,
+          "section": "oop"
+        },
+        {
+          "id": 518,
+          "section": "logic"
+        },
+        {
+          "id": 231,
+          "section": "oop"
+        },
+        {
+          "id": 809,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 713,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 533,
+          "section": "logic"
+        },
+        {
+          "id": 349,
+          "section": "logic"
+        },
+        {
+          "id": 362,
+          "section": "logic"
+        },
+        {
+          "id": 102,
+          "section": "oop"
+        },
+        {
+          "id": 639,
+          "section": "inductive"
+        },
+        {
+          "id": 561,
+          "section": "logic"
+        },
+        {
+          "id": 706,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 573,
+          "section": "logic"
+        }
+      ]
+    },
+    {
+      "session": 9,
+      "total": 20,
+      "questions": [
+        {
+          "id": 223,
+          "section": "oop"
+        },
+        {
+          "id": 68,
+          "section": "oop"
+        },
+        {
+          "id": 626,
+          "section": "inductive"
+        },
+        {
+          "id": 701,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 802,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 425,
+          "section": "logic"
+        },
+        {
+          "id": 148,
+          "section": "programming"
+        },
+        {
+          "id": 73,
+          "section": "programming"
+        },
+        {
+          "id": 716,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 318,
+          "section": "logic"
+        },
+        {
+          "id": 510,
+          "section": "logic"
+        },
+        {
+          "id": 3,
+          "section": "oop"
+        },
+        {
+          "id": 418,
+          "section": "programming"
+        },
+        {
+          "id": 32,
+          "section": "oop"
+        },
+        {
+          "id": 604,
+          "section": "inductive"
+        },
+        {
+          "id": 483,
+          "section": "logic"
+        },
+        {
+          "id": 467,
+          "section": "logic"
+        },
+        {
+          "id": 806,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 112,
+          "section": "oop"
+        },
+        {
+          "id": 638,
+          "section": "inductive"
+        }
+      ]
+    },
+    {
+      "session": 10,
+      "total": 20,
+      "questions": [
+        {
+          "id": 196,
+          "section": "programming"
+        },
+        {
+          "id": 101,
+          "section": "oop"
+        },
+        {
+          "id": 815,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 11,
+          "section": "programming"
+        },
+        {
+          "id": 709,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 805,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 268,
+          "section": "oop"
+        },
+        {
+          "id": 714,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 347,
+          "section": "logic"
+        },
+        {
+          "id": 407,
+          "section": "logic"
+        },
+        {
+          "id": 230,
+          "section": "oop"
+        },
+        {
+          "id": 167,
+          "section": "oop"
+        },
+        {
+          "id": 408,
+          "section": "logic"
+        },
+        {
+          "id": 601,
+          "section": "inductive"
+        },
+        {
+          "id": 633,
+          "section": "inductive"
+        },
+        {
+          "id": 395,
+          "section": "programming"
+        },
+        {
+          "id": 427,
+          "section": "logic"
+        },
+        {
+          "id": 622,
+          "section": "inductive"
+        },
+        {
+          "id": 193,
+          "section": "oop"
+        },
+        {
+          "id": 531,
+          "section": "logic"
+        }
+      ]
+    },
+    {
+      "session": 11,
+      "total": 20,
+      "questions": [
+        {
+          "id": 410,
+          "section": "logic"
+        },
+        {
+          "id": 401,
+          "section": "logic"
+        },
+        {
+          "id": 239,
+          "section": "oop"
+        },
+        {
+          "id": 243,
+          "section": "oop"
+        },
+        {
+          "id": 162,
+          "section": "oop"
+        },
+        {
+          "id": 808,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 615,
+          "section": "inductive"
+        },
+        {
+          "id": 305,
+          "section": "logic"
+        },
+        {
+          "id": 325,
+          "section": "programming"
+        },
+        {
+          "id": 625,
+          "section": "inductive"
+        },
+        {
+          "id": 717,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 154,
+          "section": "oop"
+        },
+        {
+          "id": 184,
+          "section": "programming"
+        },
+        {
+          "id": 720,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 140,
+          "section": "oop"
+        },
+        {
+          "id": 235,
+          "section": "oop"
+        },
+        {
+          "id": 632,
+          "section": "inductive"
+        },
+        {
+          "id": 811,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 8,
+          "section": "oop"
+        },
+        {
+          "id": 249,
+          "section": "programming"
+        }
+      ]
+    },
+    {
+      "session": 12,
+      "total": 20,
+      "questions": [
+        {
+          "id": 634,
+          "section": "inductive"
+        },
+        {
+          "id": 74,
+          "section": "oop"
+        },
+        {
+          "id": 255,
+          "section": "programming"
+        },
+        {
+          "id": 58,
+          "section": "programming"
+        },
+        {
+          "id": 299,
+          "section": "oop"
+        },
+        {
+          "id": 816,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 629,
+          "section": "inductive"
+        },
+        {
+          "id": 480,
+          "section": "logic"
+        },
+        {
+          "id": 381,
+          "section": "logic"
+        },
+        {
+          "id": 719,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 142,
+          "section": "oop"
+        },
+        {
+          "id": 144,
+          "section": "programming"
+        },
+        {
+          "id": 815,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 208,
+          "section": "oop"
+        },
+        {
+          "id": 106,
+          "section": "oop"
+        },
+        {
+          "id": 294,
+          "section": "oop"
+        },
+        {
+          "id": 627,
+          "section": "inductive"
+        },
+        {
+          "id": 481,
+          "section": "logic"
+        },
+        {
+          "id": 199,
+          "section": "oop"
+        },
+        {
+          "id": 707,
+          "section": "diagrammatic"
+        }
+      ]
+    },
+    {
+      "session": 13,
+      "total": 20,
+      "questions": [
+        {
+          "id": 476,
+          "section": "logic"
+        },
+        {
+          "id": 263,
+          "section": "oop"
+        },
+        {
+          "id": 389,
+          "section": "logic"
+        },
+        {
+          "id": 20,
+          "section": "programming"
+        },
+        {
+          "id": 716,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 635,
+          "section": "inductive"
+        },
+        {
+          "id": 264,
+          "section": "oop"
+        },
+        {
+          "id": 708,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 819,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 281,
+          "section": "oop"
+        },
+        {
+          "id": 188,
+          "section": "oop"
+        },
+        {
+          "id": 111,
+          "section": "programming"
+        },
+        {
+          "id": 394,
+          "section": "programming"
+        },
+        {
+          "id": 72,
+          "section": "oop"
+        },
+        {
+          "id": 593,
+          "section": "logic"
+        },
+        {
+          "id": 609,
+          "section": "inductive"
+        },
+        {
+          "id": 92,
+          "section": "oop"
+        },
+        {
+          "id": 626,
+          "section": "inductive"
+        },
+        {
+          "id": 345,
+          "section": "logic"
+        },
+        {
+          "id": 806,
+          "section": "logical_reasoning"
+        }
+      ]
+    },
+    {
+      "session": 14,
+      "total": 20,
+      "questions": [
+        {
+          "id": 207,
+          "section": "oop"
+        },
+        {
+          "id": 639,
+          "section": "inductive"
+        },
+        {
+          "id": 209,
+          "section": "oop"
+        },
+        {
+          "id": 712,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 57,
+          "section": "programming"
+        },
+        {
+          "id": 809,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 802,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 245,
+          "section": "programming"
+        },
+        {
+          "id": 290,
+          "section": "oop"
+        },
+        {
+          "id": 143,
+          "section": "oop"
+        },
+        {
+          "id": 312,
+          "section": "logic"
+        },
+        {
+          "id": 333,
+          "section": "logic"
+        },
+        {
+          "id": 606,
+          "section": "inductive"
+        },
+        {
+          "id": 703,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 624,
+          "section": "inductive"
+        },
+        {
+          "id": 130,
+          "section": "programming"
+        },
+        {
+          "id": 67,
+          "section": "oop"
+        },
+        {
+          "id": 499,
+          "section": "logic"
+        },
+        {
+          "id": 149,
+          "section": "oop"
+        },
+        {
+          "id": 335,
+          "section": "logic"
+        }
+      ]
+    },
+    {
+      "session": 15,
+      "total": 20,
+      "questions": [
+        {
+          "id": 302,
+          "section": "logic"
+        },
+        {
+          "id": 450,
+          "section": "logic"
+        },
+        {
+          "id": 637,
+          "section": "inductive"
+        },
+        {
+          "id": 814,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 384,
+          "section": "logic"
+        },
+        {
+          "id": 201,
+          "section": "oop"
+        },
+        {
+          "id": 287,
+          "section": "programming"
+        },
+        {
+          "id": 156,
+          "section": "oop"
+        },
+        {
+          "id": 85,
+          "section": "oop"
+        },
+        {
+          "id": 421,
+          "section": "logic"
+        },
+        {
+          "id": 365,
+          "section": "logic"
+        },
+        {
+          "id": 701,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 628,
+          "section": "inductive"
+        },
+        {
+          "id": 185,
+          "section": "programming"
+        },
+        {
+          "id": 618,
+          "section": "inductive"
+        },
+        {
+          "id": 105,
+          "section": "programming"
+        },
+        {
+          "id": 813,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 361,
+          "section": "logic"
+        },
+        {
+          "id": 705,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 9,
+          "section": "oop"
+        }
+      ]
+    },
+    {
+      "session": 16,
+      "total": 20,
+      "questions": [
+        {
+          "id": 46,
+          "section": "programming"
+        },
+        {
+          "id": 702,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 614,
+          "section": "inductive"
+        },
+        {
+          "id": 157,
+          "section": "oop"
+        },
+        {
+          "id": 428,
+          "section": "logic"
+        },
+        {
+          "id": 818,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 439,
+          "section": "logic"
+        },
+        {
+          "id": 452,
+          "section": "logic"
+        },
+        {
+          "id": 220,
+          "section": "oop"
+        },
+        {
+          "id": 709,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 375,
+          "section": "logic"
+        },
+        {
+          "id": 640,
+          "section": "inductive"
+        },
+        {
+          "id": 579,
+          "section": "logic"
+        },
+        {
+          "id": 55,
+          "section": "oop"
+        },
+        {
+          "id": 20,
+          "section": "oop"
+        },
+        {
+          "id": 621,
+          "section": "inductive"
+        },
+        {
+          "id": 817,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 452,
+          "section": "programming"
+        },
+        {
+          "id": 213,
+          "section": "oop"
+        },
+        {
+          "id": 582,
+          "section": "logic"
+        }
+      ]
+    },
+    {
+      "session": 17,
+      "total": 20,
+      "questions": [
+        {
+          "id": 715,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 462,
+          "section": "logic"
+        },
+        {
+          "id": 583,
+          "section": "logic"
+        },
+        {
+          "id": 710,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 807,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 468,
+          "section": "logic"
+        },
+        {
+          "id": 324,
+          "section": "programming"
+        },
+        {
+          "id": 466,
+          "section": "programming"
+        },
+        {
+          "id": 443,
+          "section": "logic"
+        },
+        {
+          "id": 547,
+          "section": "logic"
+        },
+        {
+          "id": 623,
+          "section": "inductive"
+        },
+        {
+          "id": 195,
+          "section": "oop"
+        },
+        {
+          "id": 638,
+          "section": "inductive"
+        },
+        {
+          "id": 45,
+          "section": "programming"
+        },
+        {
+          "id": 521,
+          "section": "logic"
+        },
+        {
+          "id": 435,
+          "section": "logic"
+        },
+        {
+          "id": 803,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 163,
+          "section": "oop"
+        },
+        {
+          "id": 603,
+          "section": "inductive"
+        },
+        {
+          "id": 46,
+          "section": "oop"
+        }
+      ]
+    },
+    {
+      "session": 18,
+      "total": 20,
+      "questions": [
+        {
+          "id": 636,
+          "section": "inductive"
+        },
+        {
+          "id": 385,
+          "section": "logic"
+        },
+        {
+          "id": 534,
+          "section": "logic"
+        },
+        {
+          "id": 704,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 714,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 574,
+          "section": "logic"
+        },
+        {
+          "id": 55,
+          "section": "oop"
+        },
+        {
+          "id": 61,
+          "section": "oop"
+        },
+        {
+          "id": 812,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 649,
+          "section": "inductive"
+        },
+        {
+          "id": 121,
+          "section": "oop"
+        },
+        {
+          "id": 484,
+          "section": "logic"
+        },
+        {
+          "id": 801,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 206,
+          "section": "oop"
+        },
+        {
+          "id": 474,
+          "section": "programming"
+        },
+        {
+          "id": 161,
+          "section": "programming"
+        },
+        {
+          "id": 472,
+          "section": "logic"
+        },
+        {
+          "id": 607,
+          "section": "inductive"
+        },
+        {
+          "id": 315,
+          "section": "logic"
+        },
+        {
+          "id": 228,
+          "section": "oop"
+        }
+      ]
+    },
+    {
+      "session": 19,
+      "total": 20,
+      "questions": [
+        {
+          "id": 53,
+          "section": "oop"
+        },
+        {
+          "id": 386,
+          "section": "logic"
+        },
+        {
+          "id": 711,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 805,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 630,
+          "section": "inductive"
+        },
+        {
+          "id": 115,
+          "section": "programming"
+        },
+        {
+          "id": 293,
+          "section": "oop"
+        },
+        {
+          "id": 287,
+          "section": "oop"
+        },
+        {
+          "id": 118,
+          "section": "oop"
+        },
+        {
+          "id": 623,
+          "section": "inductive"
+        },
+        {
+          "id": 571,
+          "section": "logic"
+        },
+        {
+          "id": 1,
+          "section": "oop"
+        },
+        {
+          "id": 36,
+          "section": "oop"
+        },
+        {
+          "id": 596,
+          "section": "logic"
+        },
+        {
+          "id": 320,
+          "section": "logic"
+        },
+        {
+          "id": 262,
+          "section": "programming"
+        },
+        {
+          "id": 139,
+          "section": "oop"
+        },
+        {
+          "id": 631,
+          "section": "inductive"
+        },
+        {
+          "id": 804,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 713,
+          "section": "diagrammatic"
+        }
+      ]
+    },
+    {
+      "session": 20,
+      "total": 20,
+      "questions": [
+        {
+          "id": 59,
+          "section": "oop"
+        },
+        {
+          "id": 810,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 383,
+          "section": "programming"
+        },
+        {
+          "id": 27,
+          "section": "oop"
+        },
+        {
+          "id": 7,
+          "section": "oop"
+        },
+        {
+          "id": 820,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 17,
+          "section": "programming"
+        },
+        {
+          "id": 265,
+          "section": "oop"
+        },
+        {
+          "id": 236,
+          "section": "oop"
+        },
+        {
+          "id": 135,
+          "section": "oop"
+        },
+        {
+          "id": 718,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 226,
+          "section": "oop"
+        },
+        {
+          "id": 633,
+          "section": "inductive"
+        },
+        {
+          "id": 706,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 545,
+          "section": "logic"
+        },
+        {
+          "id": 414,
+          "section": "logic"
+        },
+        {
+          "id": 300,
+          "section": "programming"
+        },
+        {
+          "id": 628,
+          "section": "inductive"
+        },
+        {
+          "id": 515,
+          "section": "logic"
+        },
+        {
+          "id": 613,
+          "section": "inductive"
+        }
+      ]
+    },
+    {
+      "session": 21,
+      "total": 20,
+      "questions": [
+        {
+          "id": 357,
+          "section": "logic"
+        },
+        {
+          "id": 14,
+          "section": "oop"
+        },
+        {
+          "id": 325,
+          "section": "logic"
+        },
+        {
+          "id": 232,
+          "section": "programming"
+        },
+        {
+          "id": 276,
+          "section": "oop"
+        },
+        {
+          "id": 819,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 711,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 280,
+          "section": "oop"
+        },
+        {
+          "id": 496,
+          "section": "programming"
+        },
+        {
+          "id": 717,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 608,
+          "section": "inductive"
+        },
+        {
+          "id": 818,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 416,
+          "section": "logic"
+        },
+        {
+          "id": 151,
+          "section": "oop"
+        },
+        {
+          "id": 412,
+          "section": "logic"
+        },
+        {
+          "id": 87,
+          "section": "programming"
+        },
+        {
+          "id": 632,
+          "section": "inductive"
+        },
+        {
+          "id": 202,
+          "section": "oop"
+        },
+        {
+          "id": 622,
+          "section": "inductive"
+        },
+        {
+          "id": 88,
+          "section": "oop"
+        }
+      ]
+    },
+    {
+      "session": 22,
+      "total": 20,
+      "questions": [
+        {
+          "id": 447,
+          "section": "logic"
+        },
+        {
+          "id": 47,
+          "section": "programming"
+        },
+        {
+          "id": 803,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 434,
+          "section": "logic"
+        },
+        {
+          "id": 338,
+          "section": "logic"
+        },
+        {
+          "id": 621,
+          "section": "inductive"
+        },
+        {
+          "id": 653,
+          "section": "inductive"
+        },
+        {
+          "id": 204,
+          "section": "oop"
+        },
+        {
+          "id": 552,
+          "section": "logic"
+        },
+        {
+          "id": 637,
+          "section": "inductive"
+        },
+        {
+          "id": 339,
+          "section": "logic"
+        },
+        {
+          "id": 807,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 195,
+          "section": "programming"
+        },
+        {
+          "id": 708,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 587,
+          "section": "logic"
+        },
+        {
+          "id": 328,
+          "section": "logic"
+        },
+        {
+          "id": 16,
+          "section": "programming"
+        },
+        {
+          "id": 90,
+          "section": "oop"
+        },
+        {
+          "id": 261,
+          "section": "oop"
+        },
+        {
+          "id": 701,
+          "section": "diagrammatic"
+        }
+      ]
+    },
+    {
+      "session": 23,
+      "total": 20,
+      "questions": [
+        {
+          "id": 247,
+          "section": "oop"
+        },
+        {
+          "id": 124,
+          "section": "oop"
+        },
+        {
+          "id": 485,
+          "section": "logic"
+        },
+        {
+          "id": 542,
+          "section": "logic"
+        },
+        {
+          "id": 605,
+          "section": "inductive"
+        },
+        {
+          "id": 626,
+          "section": "inductive"
+        },
+        {
+          "id": 158,
+          "section": "programming"
+        },
+        {
+          "id": 810,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 817,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 640,
+          "section": "inductive"
+        },
+        {
+          "id": 417,
+          "section": "logic"
+        },
+        {
+          "id": 283,
+          "section": "oop"
+        },
+        {
+          "id": 584,
+          "section": "logic"
+        },
+        {
+          "id": 286,
+          "section": "programming"
+        },
+        {
+          "id": 404,
+          "section": "programming"
+        },
+        {
+          "id": 332,
+          "section": "logic"
+        },
+        {
+          "id": 329,
+          "section": "logic"
+        },
+        {
+          "id": 702,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 709,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 562,
+          "section": "logic"
+        }
+      ]
+    },
+    {
+      "session": 24,
+      "total": 20,
+      "questions": [
+        {
+          "id": 712,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 624,
+          "section": "inductive"
+        },
+        {
+          "id": 804,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 280,
+          "section": "oop"
+        },
+        {
+          "id": 51,
+          "section": "oop"
+        },
+        {
+          "id": 808,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 442,
+          "section": "logic"
+        },
+        {
+          "id": 638,
+          "section": "inductive"
+        },
+        {
+          "id": 15,
+          "section": "oop"
+        },
+        {
+          "id": 566,
+          "section": "logic"
+        },
+        {
+          "id": 244,
+          "section": "oop"
+        },
+        {
+          "id": 421,
+          "section": "programming"
+        },
+        {
+          "id": 703,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 352,
+          "section": "logic"
+        },
+        {
+          "id": 536,
+          "section": "logic"
+        },
+        {
+          "id": 187,
+          "section": "oop"
+        },
+        {
+          "id": 494,
+          "section": "logic"
+        },
+        {
+          "id": 609,
+          "section": "inductive"
+        },
+        {
+          "id": 380,
+          "section": "programming"
+        },
+        {
+          "id": 598,
+          "section": "logic"
+        }
+      ]
+    },
+    {
+      "session": 25,
+      "total": 20,
+      "questions": [
+        {
+          "id": 91,
+          "section": "oop"
+        },
+        {
+          "id": 153,
+          "section": "oop"
+        },
+        {
+          "id": 802,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 287,
+          "section": "oop"
+        },
+        {
+          "id": 815,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 397,
+          "section": "logic"
+        },
+        {
+          "id": 634,
+          "section": "inductive"
+        },
+        {
+          "id": 248,
+          "section": "oop"
+        },
+        {
+          "id": 720,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 568,
+          "section": "logic"
+        },
+        {
+          "id": 649,
+          "section": "inductive"
+        },
+        {
+          "id": 368,
+          "section": "programming"
+        },
+        {
+          "id": 486,
+          "section": "logic"
+        },
+        {
+          "id": 38,
+          "section": "oop"
+        },
+        {
+          "id": 716,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 612,
+          "section": "inductive"
+        },
+        {
+          "id": 200,
+          "section": "programming"
+        },
+        {
+          "id": 209,
+          "section": "programming"
+        },
+        {
+          "id": 109,
+          "section": "oop"
+        },
+        {
+          "id": 474,
+          "section": "logic"
+        }
+      ]
+    },
+    {
+      "session": 26,
+      "total": 20,
+      "questions": [
+        {
+          "id": 178,
+          "section": "programming"
+        },
+        {
+          "id": 577,
+          "section": "logic"
+        },
+        {
+          "id": 528,
+          "section": "logic"
+        },
+        {
+          "id": 501,
+          "section": "logic"
+        },
+        {
+          "id": 455,
+          "section": "programming"
+        },
+        {
+          "id": 160,
+          "section": "programming"
+        },
+        {
+          "id": 555,
+          "section": "logic"
+        },
+        {
+          "id": 625,
+          "section": "inductive"
+        },
+        {
+          "id": 597,
+          "section": "logic"
+        },
+        {
+          "id": 87,
+          "section": "oop"
+        },
+        {
+          "id": 811,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 473,
+          "section": "logic"
+        },
+        {
+          "id": 809,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 126,
+          "section": "oop"
+        },
+        {
+          "id": 706,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 718,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 633,
+          "section": "inductive"
+        },
+        {
+          "id": 437,
+          "section": "logic"
+        },
+        {
+          "id": 108,
+          "section": "oop"
+        },
+        {
+          "id": 616,
+          "section": "inductive"
+        }
+      ]
+    },
+    {
+      "session": 27,
+      "total": 20,
+      "questions": [
+        {
+          "id": 805,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 522,
+          "section": "logic"
+        },
+        {
+          "id": 336,
+          "section": "logic"
+        },
+        {
+          "id": 191,
+          "section": "programming"
+        },
+        {
+          "id": 523,
+          "section": "logic"
+        },
+        {
+          "id": 627,
+          "section": "inductive"
+        },
+        {
+          "id": 92,
+          "section": "programming"
+        },
+        {
+          "id": 277,
+          "section": "oop"
+        },
+        {
+          "id": 366,
+          "section": "logic"
+        },
+        {
+          "id": 635,
+          "section": "inductive"
+        },
+        {
+          "id": 174,
+          "section": "oop"
+        },
+        {
+          "id": 820,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 23,
+          "section": "programming"
+        },
+        {
+          "id": 714,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 148,
+          "section": "oop"
+        },
+        {
+          "id": 601,
+          "section": "inductive"
+        },
+        {
+          "id": 419,
+          "section": "logic"
+        },
+        {
+          "id": 179,
+          "section": "oop"
+        },
+        {
+          "id": 719,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 464,
+          "section": "logic"
+        }
+      ]
+    },
+    {
+      "session": 28,
+      "total": 20,
+      "questions": [
+        {
+          "id": 13,
+          "section": "oop"
+        },
+        {
+          "id": 621,
+          "section": "inductive"
+        },
+        {
+          "id": 181,
+          "section": "oop"
+        },
+        {
+          "id": 812,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 715,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 313,
+          "section": "programming"
+        },
+        {
+          "id": 519,
+          "section": "logic"
+        },
+        {
+          "id": 301,
+          "section": "logic"
+        },
+        {
+          "id": 558,
+          "section": "logic"
+        },
+        {
+          "id": 152,
+          "section": "oop"
+        },
+        {
+          "id": 203,
+          "section": "programming"
+        },
+        {
+          "id": 4,
+          "section": "oop"
+        },
+        {
+          "id": 607,
+          "section": "inductive"
+        },
+        {
+          "id": 514,
+          "section": "logic"
+        },
+        {
+          "id": 707,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 323,
+          "section": "logic"
+        },
+        {
+          "id": 242,
+          "section": "oop"
+        },
+        {
+          "id": 309,
+          "section": "logic"
+        },
+        {
+          "id": 801,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 631,
+          "section": "inductive"
+        }
+      ]
+    },
+    {
+      "session": 29,
+      "total": 20,
+      "questions": [
+        {
+          "id": 586,
+          "section": "logic"
+        },
+        {
+          "id": 494,
+          "section": "programming"
+        },
+        {
+          "id": 2,
+          "section": "oop"
+        },
+        {
+          "id": 713,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 54,
+          "section": "programming"
+        },
+        {
+          "id": 813,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 630,
+          "section": "inductive"
+        },
+        {
+          "id": 254,
+          "section": "oop"
+        },
+        {
+          "id": 363,
+          "section": "logic"
+        },
+        {
+          "id": 168,
+          "section": "oop"
+        },
+        {
+          "id": 559,
+          "section": "logic"
+        },
+        {
+          "id": 54,
+          "section": "oop"
+        },
+        {
+          "id": 589,
+          "section": "logic"
+        },
+        {
+          "id": 628,
+          "section": "inductive"
+        },
+        {
+          "id": 66,
+          "section": "oop"
+        },
+        {
+          "id": 806,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 639,
+          "section": "inductive"
+        },
+        {
+          "id": 710,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 478,
+          "section": "logic"
+        },
+        {
+          "id": 119,
+          "section": "programming"
+        }
+      ]
+    },
+    {
+      "session": 30,
+      "total": 20,
+      "questions": [
+        {
+          "id": 306,
+          "section": "logic"
+        },
+        {
+          "id": 463,
+          "section": "logic"
+        },
+        {
+          "id": 52,
+          "section": "oop"
+        },
+        {
+          "id": 284,
+          "section": "programming"
+        },
+        {
+          "id": 346,
+          "section": "logic"
+        },
+        {
+          "id": 327,
+          "section": "logic"
+        },
+        {
+          "id": 585,
+          "section": "logic"
+        },
+        {
+          "id": 604,
+          "section": "inductive"
+        },
+        {
+          "id": 705,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 250,
+          "section": "programming"
+        },
+        {
+          "id": 128,
+          "section": "oop"
+        },
+        {
+          "id": 636,
+          "section": "inductive"
+        },
+        {
+          "id": 704,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 11,
+          "section": "programming"
+        },
+        {
+          "id": 266,
+          "section": "oop"
+        },
+        {
+          "id": 550,
+          "section": "logic"
+        },
+        {
+          "id": 625,
+          "section": "inductive"
+        },
+        {
+          "id": 814,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 816,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 57,
+          "section": "oop"
+        }
+      ]
+    },
+    {
+      "session": 31,
+      "total": 20,
+      "questions": [
+        {
+          "id": 718,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 499,
+          "section": "programming"
+        },
+        {
+          "id": 334,
+          "section": "logic"
+        },
+        {
+          "id": 131,
+          "section": "oop"
+        },
+        {
+          "id": 563,
+          "section": "logic"
+        },
+        {
+          "id": 610,
+          "section": "inductive"
+        },
+        {
+          "id": 626,
+          "section": "inductive"
+        },
+        {
+          "id": 373,
+          "section": "logic"
+        },
+        {
+          "id": 803,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 30,
+          "section": "oop"
+        },
+        {
+          "id": 638,
+          "section": "inductive"
+        },
+        {
+          "id": 305,
+          "section": "programming"
+        },
+        {
+          "id": 281,
+          "section": "programming"
+        },
+        {
+          "id": 457,
+          "section": "logic"
+        },
+        {
+          "id": 285,
+          "section": "oop"
+        },
+        {
+          "id": 107,
+          "section": "oop"
+        },
+        {
+          "id": 471,
+          "section": "logic"
+        },
+        {
+          "id": 819,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 714,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 229,
+          "section": "oop"
+        }
+      ]
+    },
+    {
+      "session": 32,
+      "total": 20,
+      "questions": [
+        {
+          "id": 119,
+          "section": "oop"
+        },
+        {
+          "id": 164,
+          "section": "oop"
+        },
+        {
+          "id": 634,
+          "section": "inductive"
+        },
+        {
+          "id": 147,
+          "section": "programming"
+        },
+        {
+          "id": 225,
+          "section": "oop"
+        },
+        {
+          "id": 508,
+          "section": "logic"
+        },
+        {
+          "id": 271,
+          "section": "oop"
+        },
+        {
+          "id": 490,
+          "section": "logic"
+        },
+        {
+          "id": 808,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 712,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 605,
+          "section": "inductive"
+        },
+        {
+          "id": 623,
+          "section": "inductive"
+        },
+        {
+          "id": 812,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 716,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 307,
+          "section": "programming"
+        },
+        {
+          "id": 331,
+          "section": "logic"
+        },
+        {
+          "id": 409,
+          "section": "logic"
+        },
+        {
+          "id": 280,
+          "section": "programming"
+        },
+        {
+          "id": 377,
+          "section": "logic"
+        },
+        {
+          "id": 498,
+          "section": "logic"
+        }
+      ]
+    },
+    {
+      "session": 33,
+      "total": 20,
+      "questions": [
+        {
+          "id": 81,
+          "section": "oop"
+        },
+        {
+          "id": 817,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 424,
+          "section": "logic"
+        },
+        {
+          "id": 368,
+          "section": "logic"
+        },
+        {
+          "id": 627,
+          "section": "inductive"
+        },
+        {
+          "id": 111,
+          "section": "oop"
+        },
+        {
+          "id": 41,
+          "section": "programming"
+        },
+        {
+          "id": 355,
+          "section": "logic"
+        },
+        {
+          "id": 564,
+          "section": "logic"
+        },
+        {
+          "id": 639,
+          "section": "inductive"
+        },
+        {
+          "id": 128,
+          "section": "programming"
+        },
+        {
+          "id": 28,
+          "section": "oop"
+        },
+        {
+          "id": 5,
+          "section": "oop"
+        },
+        {
+          "id": 618,
+          "section": "inductive"
+        },
+        {
+          "id": 709,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 809,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 529,
+          "section": "logic"
+        },
+        {
+          "id": 711,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 37,
+          "section": "programming"
+        },
+        {
+          "id": 438,
+          "section": "logic"
+        }
+      ]
+    },
+    {
+      "session": 34,
+      "total": 20,
+      "questions": [
+        {
+          "id": 374,
+          "section": "logic"
+        },
+        {
+          "id": 556,
+          "section": "logic"
+        },
+        {
+          "id": 500,
+          "section": "programming"
+        },
+        {
+          "id": 176,
+          "section": "oop"
+        },
+        {
+          "id": 615,
+          "section": "inductive"
+        },
+        {
+          "id": 226,
+          "section": "programming"
+        },
+        {
+          "id": 802,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 402,
+          "section": "logic"
+        },
+        {
+          "id": 635,
+          "section": "inductive"
+        },
+        {
+          "id": 622,
+          "section": "inductive"
+        },
+        {
+          "id": 560,
+          "section": "logic"
+        },
+        {
+          "id": 224,
+          "section": "oop"
+        },
+        {
+          "id": 433,
+          "section": "programming"
+        },
+        {
+          "id": 303,
+          "section": "logic"
+        },
+        {
+          "id": 196,
+          "section": "oop"
+        },
+        {
+          "id": 811,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 705,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 720,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 270,
+          "section": "oop"
+        },
+        {
+          "id": 170,
+          "section": "oop"
+        }
+      ]
+    },
+    {
+      "session": 35,
+      "total": 20,
+      "questions": [
+        {
+          "id": 70,
+          "section": "oop"
+        },
+        {
+          "id": 804,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 649,
+          "section": "inductive"
+        },
+        {
+          "id": 632,
+          "section": "inductive"
+        },
+        {
+          "id": 814,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 704,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 2,
+          "section": "programming"
+        },
+        {
+          "id": 48,
+          "section": "programming"
+        },
+        {
+          "id": 614,
+          "section": "inductive"
+        },
+        {
+          "id": 272,
+          "section": "oop"
+        },
+        {
+          "id": 237,
+          "section": "oop"
+        },
+        {
+          "id": 228,
+          "section": "oop"
+        },
+        {
+          "id": 594,
+          "section": "logic"
+        },
+        {
+          "id": 44,
+          "section": "oop"
+        },
+        {
+          "id": 307,
+          "section": "logic"
+        },
+        {
+          "id": 341,
+          "section": "logic"
+        },
+        {
+          "id": 139,
+          "section": "programming"
+        },
+        {
+          "id": 343,
+          "section": "logic"
+        },
+        {
+          "id": 278,
+          "section": "oop"
+        },
+        {
+          "id": 717,
+          "section": "diagrammatic"
+        }
+      ]
+    },
+    {
+      "session": 36,
+      "total": 20,
+      "questions": [
+        {
+          "id": 418,
+          "section": "logic"
+        },
+        {
+          "id": 98,
+          "section": "oop"
+        },
+        {
+          "id": 640,
+          "section": "inductive"
+        },
+        {
+          "id": 284,
+          "section": "oop"
+        },
+        {
+          "id": 56,
+          "section": "oop"
+        },
+        {
+          "id": 611,
+          "section": "inductive"
+        },
+        {
+          "id": 370,
+          "section": "logic"
+        },
+        {
+          "id": 624,
+          "section": "inductive"
+        },
+        {
+          "id": 122,
+          "section": "programming"
+        },
+        {
+          "id": 710,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 591,
+          "section": "logic"
+        },
+        {
+          "id": 404,
+          "section": "logic"
+        },
+        {
+          "id": 495,
+          "section": "programming"
+        },
+        {
+          "id": 211,
+          "section": "oop"
+        },
+        {
+          "id": 396,
+          "section": "logic"
+        },
+        {
+          "id": 296,
+          "section": "programming"
+        },
+        {
+          "id": 371,
+          "section": "logic"
+        },
+        {
+          "id": 707,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 807,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 810,
+          "section": "logical_reasoning"
+        }
+      ]
+    },
+    {
+      "session": 37,
+      "total": 20,
+      "questions": [
+        {
+          "id": 117,
+          "section": "oop"
+        },
+        {
+          "id": 42,
+          "section": "oop"
+        },
+        {
+          "id": 708,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 205,
+          "section": "programming"
+        },
+        {
+          "id": 449,
+          "section": "programming"
+        },
+        {
+          "id": 57,
+          "section": "oop"
+        },
+        {
+          "id": 636,
+          "section": "inductive"
+        },
+        {
+          "id": 623,
+          "section": "inductive"
+        },
+        {
+          "id": 86,
+          "section": "oop"
+        },
+        {
+          "id": 719,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 606,
+          "section": "inductive"
+        },
+        {
+          "id": 381,
+          "section": "programming"
+        },
+        {
+          "id": 114,
+          "section": "oop"
+        },
+        {
+          "id": 815,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 369,
+          "section": "logic"
+        },
+        {
+          "id": 465,
+          "section": "logic"
+        },
+        {
+          "id": 130,
+          "section": "oop"
+        },
+        {
+          "id": 129,
+          "section": "oop"
+        },
+        {
+          "id": 818,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 580,
+          "section": "logic"
+        }
+      ]
+    },
+    {
+      "session": 38,
+      "total": 20,
+      "questions": [
+        {
+          "id": 17,
+          "section": "oop"
+        },
+        {
+          "id": 628,
+          "section": "inductive"
+        },
+        {
+          "id": 349,
+          "section": "programming"
+        },
+        {
+          "id": 806,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 387,
+          "section": "logic"
+        },
+        {
+          "id": 133,
+          "section": "oop"
+        },
+        {
+          "id": 254,
+          "section": "oop"
+        },
+        {
+          "id": 303,
+          "section": "programming"
+        },
+        {
+          "id": 96,
+          "section": "oop"
+        },
+        {
+          "id": 43,
+          "section": "oop"
+        },
+        {
+          "id": 816,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 273,
+          "section": "oop"
+        },
+        {
+          "id": 633,
+          "section": "inductive"
+        },
+        {
+          "id": 260,
+          "section": "programming"
+        },
+        {
+          "id": 172,
+          "section": "oop"
+        },
+        {
+          "id": 715,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 620,
+          "section": "inductive"
+        },
+        {
+          "id": 701,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 592,
+          "section": "logic"
+        },
+        {
+          "id": 442,
+          "section": "logic"
+        }
+      ]
+    },
+    {
+      "session": 39,
+      "total": 20,
+      "questions": [
+        {
+          "id": 637,
+          "section": "inductive"
+        },
+        {
+          "id": 434,
+          "section": "logic"
+        },
+        {
+          "id": 180,
+          "section": "oop"
+        },
+        {
+          "id": 398,
+          "section": "programming"
+        },
+        {
+          "id": 80,
+          "section": "oop"
+        },
+        {
+          "id": 503,
+          "section": "logic"
+        },
+        {
+          "id": 198,
+          "section": "oop"
+        },
+        {
+          "id": 581,
+          "section": "logic"
+        },
+        {
+          "id": 713,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 308,
+          "section": "logic"
+        },
+        {
+          "id": 309,
+          "section": "programming"
+        },
+        {
+          "id": 703,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 194,
+          "section": "oop"
+        },
+        {
+          "id": 453,
+          "section": "logic"
+        },
+        {
+          "id": 76,
+          "section": "oop"
+        },
+        {
+          "id": 542,
+          "section": "logic"
+        },
+        {
+          "id": 617,
+          "section": "inductive"
+        },
+        {
+          "id": 627,
+          "section": "inductive"
+        },
+        {
+          "id": 813,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 805,
+          "section": "logical_reasoning"
+        }
+      ]
+    },
+    {
+      "session": 40,
+      "total": 20,
+      "questions": [
+        {
+          "id": 459,
+          "section": "logic"
+        },
+        {
+          "id": 220,
+          "section": "programming"
+        },
+        {
+          "id": 23,
+          "section": "oop"
+        },
+        {
+          "id": 702,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 706,
+          "section": "diagrammatic"
+        },
+        {
+          "id": 431,
+          "section": "logic"
+        },
+        {
+          "id": 399,
+          "section": "logic"
+        },
+        {
+          "id": 43,
+          "section": "programming"
+        },
+        {
+          "id": 122,
+          "section": "oop"
+        },
+        {
+          "id": 820,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 372,
+          "section": "logic"
+        },
+        {
+          "id": 631,
+          "section": "inductive"
+        },
+        {
+          "id": 626,
+          "section": "inductive"
+        },
+        {
+          "id": 115,
+          "section": "oop"
+        },
+        {
+          "id": 247,
+          "section": "oop"
+        },
+        {
+          "id": 345,
+          "section": "programming"
+        },
+        {
+          "id": 613,
+          "section": "inductive"
+        },
+        {
+          "id": 801,
+          "section": "logical_reasoning"
+        },
+        {
+          "id": 87,
+          "section": "oop"
+        },
+        {
+          "id": 360,
+          "section": "logic"
+        }
+      ]
     }
   ]
 }
