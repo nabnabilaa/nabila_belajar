@@ -11,8 +11,8 @@ const ABC = ["A", "B", "C", "D"];
 const PER = BANK.meta.questionsPerSession;
 const OFFLINE = typeof location !== "undefined" && location.protocol === "file:";
 const TOPIC_KEYS = Object.keys(BANK.meta.topics);
-const ICON = { logic: "🧠", programming: "💻", oop: "🧩" };
-const COL = { logic: "#5E5CE6", programming: "#0071E3", oop: "#30E3CA" };
+const ICON = { logic: "🧠", programming: "💻", oop: "🧩", inductive: "🔍", diagrammatic: "📊", logical_reasoning: "🤔" };
+const COL = { logic: "#5E5CE6", programming: "#0071E3", oop: "#30E3CA", inductive: "#FF3B30", diagrammatic: "#FF9500", logical_reasoning: "#AF52DE" };
 const DESC = {
   logic: ["Number series · Coding · Direction · Ranking · Seating · Blood relations · Syllogism · Analogy",
           "Deret angka · Sandi · Arah · Peringkat · Tempat duduk · Hubungan keluarga · Silogisme · Analogi"],
@@ -20,8 +20,11 @@ const DESC = {
                 "Telusur pseudocode · IF/ELSE · SWITCH · loop · array · fungsi · rekursi · Swift"],
   oop: ["Class · Object · Constructor · Inheritance · Polymorphism · Encapsulation · Abstraction · Swift classes",
         "Class · Object · Constructor · Pewarisan · Polimorfisme · Enkapsulasi · Abstraksi · Swift"],
+  inductive: ["Pattern recognition, sequence completion, shape transformation", "Pengenalan pola, penyelesaian deret, transformasi bentuk"],
+  diagrammatic: ["Flowcharts, operational sequences, logic gates", "Bagan alur, urutan operasional, gerbang logika"],
+  logical_reasoning: ["Deduction, inference, syllogism, assumptions", "Deduksi, inferensi, silogisme, asumsi"],
 };
-const topicLabel = (t) => (ICON[t] || "") + " " + BANK.meta.topics[t].label;
+const topicLabel = (t) => (ICON[t] || "📚") + " " + BANK.meta.topics[t].label;
 
 // ---- score layer (Aiven via server, fallback localStorage) ----
 const ls = {
@@ -170,7 +173,7 @@ function Home({ topic, setTopic, player, setPlayer, bestOf, Badge, onStart, onLe
       <p style={{ color: "#636366", fontSize: 13, textAlign: "center", margin: "0 0 16px", lineHeight: 1.6 }}>
         {DESC[topic][0]}
         <br /><span style={{ color: IDCOL, fontStyle: "italic" }}>{DESC[topic][1]}</span>
-        <br />Pick a session — 50 questions each · no timer<br /><span style={{ color: IDCOL, fontStyle: "italic" }}>Pilih satu sesi — 50 soal per sesi · tanpa timer</span>
+        <br />Pick a session — ${PER} questions each · no timer<br /><span style={{ color: IDCOL, fontStyle: "italic" }}>Pilih satu sesi — ${PER} soal per sesi · tanpa timer</span>
       </p>
       <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill,minmax(80px,1fr))", gap: 10 }}>
         {Array.from({ length: info.sessions }).map((_, s) => {

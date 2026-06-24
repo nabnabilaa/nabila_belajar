@@ -110,8 +110,8 @@ const ABC=['A','B','C','D'];
 const PER=BANK.meta.questionsPerSession;
 const OFFLINE=location.protocol==='file:';
 const TOPIC_KEYS=Object.keys(BANK.meta.topics);
-const ICON={logic:'🧠',programming:'💻',oop:'🧩'};
-const COL ={logic:'#5E5CE6',programming:'#0071E3',oop:'#30E3CA'};
+const ICON={logic:'🧠',programming:'💻',oop:'🧩',inductive:'🔍',diagrammatic:'📊',logical_reasoning:'🤔'};
+const COL ={logic:'#5E5CE6',programming:'#0071E3',oop:'#30E3CA',inductive:'#FF3B30',diagrammatic:'#FF9500',logical_reasoning:'#AF52DE'};
 const DESC={
   logic:['Number series · Coding · Direction · Ranking · Seating · Blood relations · Syllogism · Analogy',
          'Deret angka · Sandi · Arah · Peringkat · Tempat duduk · Hubungan keluarga · Silogisme · Analogi'],
@@ -119,6 +119,9 @@ const DESC={
                'Telusur pseudocode · IF/ELSE · SWITCH · loop · array · fungsi · rekursi · Swift'],
   oop:['Class · Object · Constructor · Inheritance · Polymorphism · Encapsulation · Abstraction · Swift classes',
        'Class · Object · Constructor · Pewarisan · Polimorfisme · Enkapsulasi · Abstraksi · Swift'],
+  inductive:['Pattern recognition, sequence completion, shape transformation','Pengenalan pola, penyelesaian deret, transformasi bentuk'],
+  diagrammatic:['Flowcharts, operational sequences, logic gates','Bagan alur, urutan operasional, gerbang logika'],
+  logical_reasoning:['Deduction, inference, syllogism, assumptions','Deduksi, inferensi, silogisme, asumsi'],
 };
 
 const ls={get(k){try{return JSON.parse(localStorage.getItem('aq_'+k));}catch(e){return null;}},
@@ -164,7 +167,7 @@ function syncBadge(){
   const m={cloud:['☁︎ Cloud (Aiven)','rgba(50,215,75,.16)','#32D74B'],local:['● This device / perangkat ini','rgba(255,159,10,.16)','#FF9F0A'],connecting:['… connecting','rgba(255,255,255,.08)','#8E8E93']};
   const [t,bg,c]=m[syncState]||m.local; return `<span class="sync" style="background:${bg};color:${c}">${t}</span>`;
 }
-function topicLabel(t){return ICON[t]+' '+BANK.meta.topics[t].label;}
+function topicLabel(t){return (ICON[t]||'📚')+' '+BANK.meta.topics[t].label;}
 function tagChip(q){
   if(!q||!q.tag)return '';
   const c={Swift:['#FF9F0A','rgba(255,159,10,.15)'],Pseudocode:['#0A84FF','rgba(10,132,255,.15)'],Concept:['#BF5AF2','rgba(191,90,242,.15)']}[q.tag]||['#8E8E93','rgba(255,255,255,.08)'];
@@ -179,7 +182,7 @@ function homeView(){
   for(const k of TOPIC_KEYS){
     const inf=BANK.meta.topics[k],active=k===t;
     const st=active?`background:${COL[k]}2e;border-color:${COL[k]}80;color:#fff`:'';
-    tabs+=`<button class="tab" style="${st}" onclick="S.topic='${k}';render()">${ICON[k]} ${inf.label}<small>${inf.label_id} · ${inf.total} soal</small></button>`;
+    tabs+=`<button class="tab" style="${st}" onclick="S.topic='${k}';render()">${ICON[k]||'📚'} ${inf.label}<small>${inf.label_id} · ${inf.total} soal</small></button>`;
   }
   let cells='';
   for(let s=0;s<n;s++){
@@ -187,7 +190,7 @@ function homeView(){
     const pct=done?Math.round(best/PER*100):0;
     const col=pct>=85?'var(--green)':pct>=55?'var(--teal)':pct>=40?'var(--orange)':'var(--red)';
     cells+=`<button class="cell ${done?'done':''}" onclick="startSession('${t}',${s})">
-      <span class="n">${s+1}</span><span class="lbl">${done?'best':'50 Q'}</span>
+      <span class="n">${s+1}</span><span class="lbl">${done?'best':`${PER} Q`}</span>
       ${done?`<span class="best" style="color:${col}">${best}/${PER}</span>`:''}</button>`;
   }
   return `<div style="text-align:center"><div class="brand">
@@ -197,8 +200,8 @@ function homeView(){
     <div class="who"><label>Nama / Name:</label>
       <input id="pname" value="${PLAYER.replace(/"/g,'&quot;')}" onchange="setPlayer(this.value)" placeholder="me">${syncBadge()}</div>
     <div class="tabs">${tabs}</div>
-    <p class="meta">${DESC[t][0]}<br><span class="id">${DESC[t][1]}</span><br>
-      Pick a session — 50 questions each · no timer<br><span class="id">Pilih satu sesi — 50 soal per sesi · tanpa timer</span></p>
+    <p class="meta">${DESC[t]?DESC[t][0]:''}<br><span class="id">${DESC[t]?DESC[t][1]:''}</span><br>
+      Pick a session — ${PER} questions each · no timer<br><span class="id">Pilih satu sesi — ${PER} soal per sesi · tanpa timer</span></p>
     <div class="grid">${cells}</div>
     <button class="learnbtn" onclick="S.screen='learn';S.learnSec='programming';render()">📖 Study Material / Materi Belajar — Programming · OOP · Swift</button>
     <p class="foot">${OFFLINE
