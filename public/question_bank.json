@@ -8,40 +8,40 @@
         "label": "Logic Test",
         "label_id": "Tes Logika",
         "total": 600,
-        "sessions": 12
+        "sessions": 30
       },
       "programming": {
         "label": "Programming",
         "label_id": "Pemrograman",
         "total": 430,
-        "sessions": 8
+        "sessions": 22
       },
       "oop": {
         "label": "OOP",
         "label_id": "OOP",
         "total": 226,
-        "sessions": 4
+        "sessions": 12
       },
       "inductive": {
         "label": "Inductive Reasoning",
         "label_id": "Penalaran Induktif",
         "total": 95,
-        "sessions": 1
+        "sessions": 5
       },
       "diagrammatic": {
         "label": "Diagrammatic Reasoning",
         "label_id": "Penalaran Diagramatik",
         "total": 60,
-        "sessions": 1
+        "sessions": 3
       },
       "logical_reasoning": {
         "label": "Logical Reasoning",
         "label_id": "Penalaran Logis",
         "total": 60,
-        "sessions": 1
+        "sessions": 3
       }
     },
-    "totalSessions": 45
+    "totalSessions": 75
   },
   "logic": [
     {
